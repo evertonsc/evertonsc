@@ -15,7 +15,7 @@
 * I'm on 7th semester of Computer Science at Universidade La Salle (Canoas);
 * I work at Sispro Serviços e Tecnologia S/A (Canoas) as a Junior Software Developer, dealing with migration code part from VB6 to C# and Angular;
 * Improving my GIT knowledge;
-* Exploring technologies I haven't seen yet like Java, Spring Boot, non-relational databases like MongoDB, React Native to create my app;
+* Exploring technologies I haven't seen yet like Java, Spring Boot, non-relational databases like MongoDB.
 
 <div style="display: inline_block"><br>
   
