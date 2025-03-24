@@ -7,7 +7,7 @@
 ## About me
 * I've started my career taking 1 year to study, by doing courses on Alura's platform. This time gaves me almost my whole knowledge until today, because I was able to conclude about 55 certified courses involving programming languages.
 * I've learned about PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap and started to work for my father, by making a system to him... to make his job easier.
-* After working with him for about 2-3 years, I got my current job at Sispro Serviços e Tecnologia S/A (Canoas) as a intern. There, I began my new journey with new programming languages (listed on Daily usage below).
+* After working with him for about 2-3 years, I got my current job at Sispro Serviços e Tecnologia S/A (Canoas) as an intern. There, I began my new journey with new programming languages (listed on Daily usage below).
 * Last but not least, when I completted 9 months, I became Junior Software Developer.
 <br>
 
