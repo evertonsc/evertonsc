@@ -1,21 +1,7 @@
 ## Welcome to my profile 👋
 
 * Here you're going to find out some repos that I've made to improve my knowledge like personal projects and college stuff.
-* Below I have listed some techlogies that I use every day and others that I already worked with, so I learned a bit.
-<br>
 
-## About me
-* I've started my career taking 1 year to study, by doing courses on Alura's platform. This time gaves me almost my whole knowledge until today, because I was able to conclude about 55 certified courses involving programming languages.
-* I've learned about PHP, Laravel, MySQL, HTML, CSS, JavaScript, Bootstrap and started to work for my father, by making a system to him... to make his job easier.
-* After working with him for about 2-3 years, I got my current job at Sispro Serviços e Tecnologia S/A (Canoas) as an intern. There, I began my new journey with new programming languages (listed on Daily usage below).
-* Last but not least, when I completted 9 months, I became Junior Software Developer.
-<br>
-
-## What am I doing currently? 🗒️💻
-* I'm on 7th semester of Computer Science at Universidade La Salle (Canoas);
-* I work at Sispro Serviços e Tecnologia S/A (Canoas) as a Junior Software Developer, dealing with migration code part from VB6 to C# and Angular;
-* Improving my GIT knowledge;
-* Exploring technologies I haven't seen yet like Java, Spring Boot, non-relational databases like MongoDB.
 
 <div style="display: inline_block"><br>
   
