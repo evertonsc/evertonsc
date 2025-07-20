@@ -10,7 +10,7 @@
 
   ### Daily usage
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,angular,typescript,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,nodejs,angular,typescript,bootstrap" />
   </a>
   
   <br>
@@ -18,7 +18,7 @@
   ### Knowledge
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,sass" />
+    <img src="https://skillicons.dev/icons?i=mysql,sass" />
   </a>
 </div>
  
