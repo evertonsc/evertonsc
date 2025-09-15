@@ -1,6 +1,5 @@
 ## Welcome to my profile 👋
 
-* Software Developer at SISPRO;
 * Here you're going to find out some repos that I've made to improve my knowledge like personal projects and college stuff.
 
 
